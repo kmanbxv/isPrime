@@ -18,4 +18,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgement
 
-I'm pretty sure I used someone else's prime checking function from stackoverflow
+I got the prime checking function from [this](https://stackoverflow.com/a/40603122) stackoverflow post.
